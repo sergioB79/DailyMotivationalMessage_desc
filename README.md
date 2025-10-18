@@ -9,6 +9,7 @@ Corre sozinho — até com o computador desligado ☁️
 ## ⚡ O que é isto?
 
 Um pequeno projeto em **Google Apps Script** que:
+
 1️⃣ Lê o teu perfil (um ficheiro JSON no Google Drive);  
 2️⃣ Usa a tua chave da **OpenAI (GPT-5)** para criar uma mensagem única;  
 3️⃣ Guarda a mensagem no teu Drive;  
