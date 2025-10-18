@@ -1,5 +1,5 @@
 # 💬 Cria o teu Gerador Automático de Mensagens Diárias (Google + OpenAI)
-### por [Sérgio Batalha](https://github.com/sergiobatalha)
+### por [Sérgio Batalha](https://github.com/sergioB79)
 
 Mensagens reais, personalizadas e diferentes todos os dias.  
 Corre sozinho — até com o computador desligado ☁️  
